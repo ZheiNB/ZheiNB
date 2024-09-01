@@ -5,7 +5,7 @@
 
 -->
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=ZheiNB&style=plastic&color=White" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=ZheiNB&style=plastic&color=Red" alt = "Conectado"/>
 </p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
