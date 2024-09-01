@@ -78,5 +78,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Zhei!;I'm+a+Love+Nebulous...;CRAZY+fan+of+trick,+Camp;And+I'm+a+Player+person;Youtube+to+contribute;into+myorganization,Nebulous.io)](https://git.io/typing-svg)
 
 
-[![GitHub followers](https://img.shields.io/github/followers/walleeva2018.svg?style=social&label=Followers)](https://github.com/walleeva2018?tab=followers)
+
 
