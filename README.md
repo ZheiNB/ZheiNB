@@ -57,7 +57,7 @@
 
 </div>
 
-</details>
+
 
 <details>
 <summary> </summary>
