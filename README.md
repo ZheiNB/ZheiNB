@@ -14,7 +14,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Zhei!;I'm+a+Like+Nebulous...;CRAZY+fan+trick,+Camp;And+I'm+a+Player+person;Youtube+to+contribute;into+organization,Nebulous.io)](https://git.io/typing-svg)
+
 
 
 <br>
