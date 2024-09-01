@@ -75,7 +75,7 @@
 
 ------
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Zhei!;I'm+a+Nebulous...;fan+From,+Always;And+I'm+a+Creador+Contenido;Youtube+to+Zhei_Nebulous;Like+Suscribete,Nebulous.io)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+are+You!;Welcome+a+Nebulous...;fan+of,+Zhei;And+I'm+a+Creador+Contenido;Youtube+to+Zhei_Nebulous;Like+Suscribete,Nebulous.io)](https://git.io/typing-svg)
 
 
 
