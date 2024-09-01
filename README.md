@@ -1,10 +1,7 @@
-## Hi there 👋
+## Hola jugador de nebulous.io
 
 <!--
-**ZheiNB/ZheiNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-![image](https://github.com/user-attachments/assets/91ce7250-300f-4195-b9db-1382af34b94d)
+**ZheiNB/ZheiNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 -->
 <p align = "center">
