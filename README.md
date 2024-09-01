@@ -51,20 +51,20 @@ Here are some ideas to get you started:
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
+ * @param {string} locatition - Argentina 
+ * @param {string} languagues - Spanish Inglish Portugués 
+ * @param {string} jobTitle - Nebulous.io
+ * @param {string} specialization - Trciks Campaña Priv
+ * @param {string} interests - AI Skins 
+ * @param {string} hobbies - YouTuber gaming playing Nebulous
+ * @param {string} education - Gamer
+ * @param {string} approachable - Yes
+ * @param {string} stength - Aesthectic 
+ * @param {string} weakness - Bye
  *
  * @throws {Punch} To any and all bugs.
  *
- * @returns {Object} Kartik.
+ * @returns {Object} Zhei
  */
 ```
 
