@@ -250,11 +250,4 @@ If you have any questions about web development, writing mistake-free documentat
 ------
 
 
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>
-</div>
-
-------
-
 
