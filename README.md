@@ -39,8 +39,8 @@
 ```js
 /**
  * Represents me.
- *
- * @constructor
+ * @Youtube: Zhei_Nebulous
+ * @Traductor Español Nebulous.io
  * @param {string} locatition - Argentina 
  * @param {string} languagues - Spanish Inglish Portugués 
  * @param {string} jobTitle - Nebulous.io
@@ -50,13 +50,6 @@
  * @param {string} education - Gamer
  * @param {string} approachable - Yes
  * @param {string} stength - Aesthectic 
- * @param {string} weakness - Bye
- *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} Zhei
- */
-```
 
 </div>
 
