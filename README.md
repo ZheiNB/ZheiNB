@@ -248,6 +248,6 @@ If you have any questions about web development, writing mistake-free documentat
 </div>
 
 ------
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
 
 
