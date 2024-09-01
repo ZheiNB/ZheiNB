@@ -50,7 +50,21 @@
  * @param {string} education - Gamer
  * @param {string} approachable - Yes
  * @param {string} stength - Aesthectic 
+*
+ * @throws {Punch} To any and all bugs.
+ *
+ * @returns {Object} Kartik.
+ */
+```
 
+</div>
+
+</details>
+
+<details>
+<summary>Tools</summary>
+<div>
+  <p style="display: inline-block;" align="center">
 </div>
 
 
