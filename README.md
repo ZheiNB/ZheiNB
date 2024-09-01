@@ -25,7 +25,7 @@
       
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=50&duration=10000&pause=1000&color=E0FFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I+am+Zhei Nebulous;Welcome+to+My+GitHub+Profile;Positive+Player+In+Nebulous; Campaña+and+Trick+Adictive;(⁠✪.⁠✪⁠)+(^⁠✿^⁠)+(⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠);Nebulous.io+;Hard+and+Easy;No+Toxic;Music+Always+Active" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=50&duration=10000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I+am+Zhei Nebulous;Welcome+to+My+GitHub+Profile;Positive+Player+In+Nebulous; Campaña+and+Trick+Adictive;(⁠✪.⁠✪⁠)+(^⁠✿^⁠)+(⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠);Nebulous.io+;Hard+and+Easy;No+Toxic;Music+Always+Active" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -77,7 +77,7 @@
 
 ------
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+are+You!;Welcome+a+Nebulous...;fan+of,+Zhei;And+I'm+a+Creador+Contenido;Youtube+to+Zhei_Nebulous;Like+Suscribete,Nebulous.io)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00BFFF&size=30&lines=Hey!+are+You!;Welcome+a+Nebulous...;fan+of,+Zhei;And+I'm+a+Creador+Contenido;Youtube+to+Zhei_Nebulous;Like+Suscribete,Nebulous.io)](https://git.io/typing-svg)
 
 
 
