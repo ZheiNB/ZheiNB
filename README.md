@@ -16,8 +16,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFFF&size=30&lines=Hey!+It's+Zhei!;I'm+a+Love+Nebulous...;CRAZY+fan+of+trick,+Camp;And+I'm+a+Player+person;Youtube+to+contribute;into+myorganization,Nebulous.io)](https://git.io/typing-svg)
 
-<details>
-<summary>Click profile</summary>
+
+<summary>CLICK PERFIL</summary>
 
 <br>
 <div>
