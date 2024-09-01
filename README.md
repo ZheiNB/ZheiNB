@@ -38,8 +38,8 @@
 
 ```js
 /**
- * Represents me.
- * @Youtube: Zhei_Nebulous
+ *
+ * 
  * @Traductor Español Nebulous.io
  * @param {string} locatition - Argentina 
  * @param {string} languagues - Spanish Inglish Portugués 
