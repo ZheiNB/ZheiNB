@@ -38,9 +38,9 @@
 
 ```js
 /**
- *
+ *represents me.
  * 
- * @Traductor Español Nebulous.io
+ * @constructor
  * @param {string} locatition - Argentina 
  * @param {string} languagues - Spanish Inglish Portugués 
  * @param {string} jobTitle - Nebulous.io
