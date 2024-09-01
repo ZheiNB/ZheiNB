@@ -25,7 +25,7 @@
       
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Zhei Nebulous;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature; Campaña+and+Trick+Engineer;Backend+and+Android+Good;Nebulous+and+.io+Lover;Hardworking+and+Ambitious;Zzzz+Freak;Music+and+Mascotas+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=FF69B4&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Zhei Nebulous;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature; Campaña+and+Trick+Engineer;Backend+and+Android+Good;Nebulous+and+.io+Lover;Hardworking+and+Ambitious;Zzzz+Freak;Music+and+Mascotas+Lover" alt="Typing SVG" /></a>
   </div>
 </div>
 
