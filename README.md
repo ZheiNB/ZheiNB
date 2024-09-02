@@ -38,30 +38,13 @@
 
 ```js
 /**
- *represents me.
- * 
- * @constructor
- * @param {string} locatition - Argentina 
- * @param {string} languagues - Spanish Inglish Portugués 
- * @param {string} jobTitle - Nebulous.io
- * @param {string} specialization - Trciks Campaña Priv
- * @param {string} interests - AI Skins 
- * @param {string} hobbies - YouTuber gaming playing Nebulous
- * @param {string} education - Gamer
- * @param {string} approachable - Yes
- * @param {string} stength - Aesthectic 
-*
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} 
- */
-```
+
 
 </div>
 
 
 
-
+<div align="left">
 <summary> </summary>
 <div>
   <p style="display: inline-block;" align="center">
