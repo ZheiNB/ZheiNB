@@ -50,27 +50,7 @@
  * @param {string} approachable - No 
  * @param {string} stength - Light 
 *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} 
- */
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-------
+ 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D2691E&size=30&lines=Hey!+are+You!;Welcome+a+Github..;am+I,+Zhei;And+I'm+a+Creador+Contenido;Youtube+to+Zhei_Nebulous;Like+Suscribete,Nebulous.io)](https://git.io/typing-svg)
 
