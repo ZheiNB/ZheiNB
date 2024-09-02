@@ -61,7 +61,7 @@
 
 
 
-<details>
+
 <summary> </summary>
 <div>
   <p style="display: inline-block;" align="center">
