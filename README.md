@@ -1,5 +1,5 @@
 ## Hola jugador de nebulous.io
-<h2> 𝐇𝐞𝐥𝐥𝐨 Nebulous player and translator!!! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> ¡H𝐞𝐥𝐥𝐨 I am a translator for Nebulous.io! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 	
 <!--
