@@ -44,12 +44,12 @@
  * @param {string} locatition - Argentina 
  * @param {string} languagues - Spanish Inglish Portugués 
  * @param {string} jobTitle - Nebulous.io
- * @param {string} specialization - Trciks Campaña Priv
+ * @param {string} specialization - Tricks Campaña Priv
  * @param {string} interests - AI Skins 
  * @param {string} hobbies - YouTuber gaming playing Nebulous
  * @param {string} education - Gamer
- * @param {string} approachable - Yes
- * @param {string} stength - Aesthectic 
+ * @param {string} approachable - No 
+ * @param {string} stength - Light 
 *
  * @throws {Punch} To any and all bugs.
  *
