@@ -34,7 +34,7 @@
 
 
 
-<div align="left">
+
 
 ```js
 /**
@@ -57,23 +57,19 @@
  */
 ```
 
-</div>
-
-
-
-<div align="left">
-<summary> </summary>
-<div>
-  <p style="display: inline-block;" align="center">
-</div>
 
 
 
 
-</div>
 
 
-</div>
+
+
+
+
+
+
+
 
 ------
 
